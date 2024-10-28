@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(231, 231, 231);
+}
+
+.header{
+    background-color: rgb(51, 163, 51);
+    color: white;
+}
+
+.header a{
+    color: white;
+    border-left: 1px solid snow;
+    margin: 2px 3px;
+    padding: 2px 5px;
+}
+
+.main{
+    background-color: white;
+}
+
+footer{
+    margin-top: 20px;
+    background-color: rgb(51, 163, 51);
+    color: white;
+}
